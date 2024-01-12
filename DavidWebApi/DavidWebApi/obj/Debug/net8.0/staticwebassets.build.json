@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nIeE3YBWQk3dYC6/8MURf6yDuZjAMXEJWVrq0RY0dbA=",
+  "Source": "DavidWebApi",
+  "BasePath": "_content/DavidWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,6 @@
+@DavidWebApi_HostAddress = http://localhost:5097
+
+GET {{DavidWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
